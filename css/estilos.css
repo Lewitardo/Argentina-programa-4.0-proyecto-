@@ -208,13 +208,11 @@ footer .redes-sociales {
     footer .redes-sociales .contenedor .instagram:hover {
       background: #3f729b; }
       .creado-por {
-        margin-bottom: 40px;
         text-align: center;
         font-size: 20px;
-        color: #323068;
+        color: #fff;
         width: 100%;
         background-color: #a4a4a4;
-        margin: auto;
       }
     /* overlay */
     .overlay {
